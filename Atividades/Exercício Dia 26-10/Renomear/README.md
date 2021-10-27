@@ -136,7 +136,7 @@ Link para o PDF -> https://github.com/Malkin011/MYSQL/blob/main/Atividades/Exerc
 
 ## 3) DER do Blog Pessoal 
 
-bug
+<img src = "https://github.com/Malkin011/MYSQL/blob/main/Atividades/Exercício%20Dia%2026-10/Renomear/MeuBlog.png%22%3E </img>
 
 ## 4) Código em SQL 
 
